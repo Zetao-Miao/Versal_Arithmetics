@@ -13,7 +13,7 @@ This adder adds 2 signed operands together or does subtraction between 2 signed 
 - the cascade options are compatible with 4-operand adder, which can be used together to build an adder tree
   
 **Usage:**
-1 LUTs / bit
+1 LUT / bit
 
 
 ### 1.2 Four-operand Adder
